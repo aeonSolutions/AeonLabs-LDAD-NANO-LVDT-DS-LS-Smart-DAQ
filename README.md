@@ -24,7 +24,7 @@ If you like this kind of projects and want to stay updated with the latest resea
 ## Fully assembled PCB
 Alternatively, and if you do not want to build a PCB by yourself and like to buy one, you can do it here:
 
-(Tindie.com)[https://www.tindie.com/products/aeonlabs/ldad-lvdt/]
+[Tindie.com](https://www.tindie.com/products/aeonlabs/ldad-lvdt/)
 
 The price will be around 30eur plus postage fees.
 (I will also deliver the assembled PCB with all the components in place at a fair aditonal cost).
