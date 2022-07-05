@@ -6,6 +6,11 @@ This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT pre
 ![](https://views.whatilearened.today/views/github/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ.svg)
 ![](https://img.shields.io/github/downloads/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/total)
 
+### Status
+![](https://github.com/aeonSolutions/AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ/blob/main/designs/working_yellow.png)  revision 6.1 Waiting for first batch from factory to be tested.
+
+If you already tested this PCB send me a message. Thank you
+
 ## Revisions
 - revision 6.1
   - added MCU firmware download connection 
