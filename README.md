@@ -1,4 +1,8 @@
-# AeonLabs-LDAD-NANO-LVDT-DS-LS-Smart-DAQ
+[PCB-Prototyping-Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue)  >>  [Smart DAQ](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Smart%20DAQ)  >> LDAD NANO LVDT DS LS Smart DAQ
+
+<br>
+
+# LDAD NANO LVDT DS LS Smart DAQ
 This repo contains the KiCad files for the About AeonLabs LDAD NANO for LVDT precision measurements and more than 20 other sensors compatible with I2C protocol communication. 
  
 *Don't forget to LIKE , SHARE and subscribe the free whatsApp group* and if you liked this PCB consider buying me a cup of coffee. Links below.
